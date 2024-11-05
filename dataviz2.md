@@ -43,3 +43,6 @@ Different visualization methods highlight data in unique ways. Bar charts, like 
 differences easy to spot. Line charts show trends over time, emphasizing changes. Heatmaps reveal intensity and concentration, useful for spotting
 
 patterns in large datasets. The right choice depends on what story you want to tell, aiming for clarity and insight tailored to your audience
+
+
+[back home](/README.md)
