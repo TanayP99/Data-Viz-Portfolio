@@ -9,3 +9,5 @@ Telling stories with data
 
 # Portfolio
 This is a repository for all my work in the course 
+
+[Assignment1](/dataviz2.md)
