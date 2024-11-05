@@ -13,6 +13,8 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';          
   vizElement.parentNode.insertBefore(scriptElement, vizElement);        
 </script>
+
+
 # Part 3
 
 This chart shows a comparison Government debt as a percentage of GDP for 1996 vs 2018 for diffrent countries
@@ -26,6 +28,8 @@ This chart shows a comparison Government debt as a percentage of GDP for 1996 vs
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';          
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
+
+
 Different visualization methods serve unique purposes, helping to convey data insights effectively depending on the story being told. Bar charts, like 
 
 the one used here, are excellent for comparing discrete values across categories, making it easy to see differences within a dataset. Line charts, on
