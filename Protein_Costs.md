@@ -55,3 +55,63 @@ To enhance clarity, I arranged each protein source in ascending order, from the 
 
 ![sketch2](protein_sketch2.jpg)
 
+## User Research and feedback through interviews
+
+I conducted two different interviews to test out my sketches below are transcripts from the interviews
+
+### interview 1 - 18 year old college student 
+
+1) What do you think these sketches , visualizations are about?
+   
+I think it is about how effective vegetarian protein is vs non vegetarian protein
+It ranks the cheapest protein sources available 
+
+2) Who do you think the target audience is?
+   
+I think the target audience is vegetarians who want to hit their protein goals and find it difficult to do so 
+
+3) Do you find the titles to be intuitive? Does it inform you about the purpose of the visualization?
+   
+Yes I liked the titles ,they are clear and straightforward and immediately tell me what these visualizations are about 
+
+4) Is there anything you would change ?
+   
+In the sketch where you are comparing vegetarian vs non vegetarian protein instead of having to separate graphs  , I would use one graph together that it can be easily compared better
+
+5) Do you feel that the visualizations are complete? Is there any other details you would like to see?
+   
+I would like to see the data a little differently - for example instead of seeing the cost of 20 gm protein for each source , I want to know how much protein is in say $5 of the source, this would help me visualize better 
+
+6) What stands out to you?
+   
+It is easier to hit protein as a non vegetarian, non veg options are more cost effective 
+
+### Interview 2 - 21 year old professional in advertising
+
+
+1) What do you think these sketches , visualizations are about?
+
+My understanding of the visualizations is that it shows different forms of protein and their prices , and categorizes the protein based on dietary preferences 
+
+2) Who do you think the target audience is?
+
+I think the target audience of the visualizations are people who are focused on their nutrition and looking to eat protein rich foods , maybe gym goers and fitness enthusiasts 
+
+3) Do you find the titles to be intuitive? Does it inform you about the purpose of the visualization?
+
+I think the titles are direct and straightforward. The title that says 'Cheapest protein based on diet' biased me to look at the cheapest but I did not want to look at that, also if you want to focus on cheapest protein based on diet maybe highlight that in your visualization 
+
+4) Is there anything you would change ?
+
+I would change the color for vegetarian - for me vegetarian means no egg and the color seems like it is egg. Also I would change the title for the graph as mentioned above
+
+5) Do you feel that the visualizations are complete? Is there any other details you would like to see?
+
+I want to know how to hit my protein goals , that is my takeaway , in this visualization I am unable to see how to hit my protein intake requirements 
+
+6) What stands out to you?
+
+What stands out to me is that vegetarian protein is more expensive and that meat is cheaper and it is easier for non vegetarians to hit their protein goals
+
+
+
