@@ -14,6 +14,8 @@ The dataset consists of the following columns
 
 source - https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet
 
+Why I picked this visualization - I am an avid fitness enthusiast always working out and looking to hit my protein intake , as a traditional indian vegetarian I find this particularly challenging and so do many people around me , thus I chose this topic to improve upon an already good visualization by making it easier to find good and price conscious choices of protein based on your dietary needs that will add up to help you hit your protein goal 
+
 ## Critique of the visualization
 I critqued the visualization by rating it on the below criteria out of 10 and then answering some questions 
 
