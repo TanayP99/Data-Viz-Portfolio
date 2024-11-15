@@ -113,5 +113,18 @@ I want to know how to hit my protein goals , that is my takeaway , in this visua
 
 What stands out to me is that vegetarian protein is more expensive and that meat is cheaper and it is easier for non vegetarians to hit their protein goals
 
+## Final Visualization 
+
+Taking all the feedback from my intereviews , I decided I wanted to do two things to elevate the experience of the viewers of my dashboard. Firstly I wanted to the user to filter the sources of protein based on their dietary preferences and what they are looking for - so I added a filter for that. Secndly, I also used colors for each different dietary category this makes it easy for viewer to see which source belongs to which category. Next, based on my user research and interviews i realized that viewers want to know how to hit their protein goals based on the general reccomendation for daily protein , so I have included very clearly how much protein a viewer needs based on their entered body weight and how many many sources from below list of 20 gm servings they will need to reach that goal 
+
+<div class='tableauPlaceholder' id='viz1731646031623' style='position: relative'><noscript><a href='#'><img alt='How can you hit consisently hit your protein goals and how much will it cost ?Recommended Daily Protein Intake: 112 gramsNumber of Sources Needed: 6 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Protein_Goals&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Protein_Goals&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Protein_Goals&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>        
+<script type='text/javascript'>          
+var divElement = document.getElementById('viz1731646031623');       
+var vizElement = divElement.getElementsByTagName('object')[0];          
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';       
+var scriptElement = document.createElement('script');           
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';         
+vizElement.parentNode.insertBefore(scriptElement, vizElement);         
+</script>
 
 
