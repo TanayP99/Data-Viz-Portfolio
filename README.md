@@ -11,3 +11,6 @@ Telling stories with data
 This is a repository for all my work in the course 
 
 [Assignment1](/dataviz2.md)
+
+
+[Assignment3 & 4](/Protein_Costs.md)
