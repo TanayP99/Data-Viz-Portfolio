@@ -47,9 +47,12 @@ It’s not as hard as it seems! Just 30 minutes of movement—whether at home or
 
 I will be using the following sources of data for my project 
 1) My personal iphone health app data which has data on calories burnt and sleep. I plan to use this data to show how exercise can lead to better sleep through my own personal experiences. Below are some screengrabs of what the data looks like
-   ![iphone ex](iphone_1.jpg)
+   ![iphone ex](Iphone_1.jpg)
    
    ![iphone_ex](iphone_2.jpg)
+
+2) https://www.cdc.gov/physical-activity/php/data/inactivity-maps.html - The CDC's physical inactivity data highlights the prevalence of adults in the U.S. who report no physical activity outside of work. The maps show regional and state-level variations, with the South having the highest inactivity rates and the West the lowest. It also reveals disparities by race and ethnicity, emphasizing the need for targeted interventions to promote physical activity
+
 
 ## Method and medium 
 For implementing my project, I will be utilizing the following tools:
