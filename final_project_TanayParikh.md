@@ -42,7 +42,15 @@ Incorporating regular physical activity, even incrementally, can significantly i
 It’s not as hard as it seems! Just 30 minutes of movement—whether at home or outdoors—can make a huge difference. Start small, stay consistent, and reclaim your well-being.
 
 ## Sketches 
+![sketch 1](sketch_1.jpg)
 
+![sketch_@](sketch_2.jpg)
+
+![sketch_@](sketch_3.jpg)
+
+![sketch_@](sketch_4.jpg)
+
+![sketch_@](sketch_5.jpg)
 
 
 ## The data 
