@@ -43,6 +43,8 @@ It’s not as hard as it seems! Just 30 minutes of movement—whether at home or
 
 ## Sketches 
 
+
+
 ## The data 
 
 I will be using the following sources of data for my project 
@@ -53,7 +55,15 @@ I will be using the following sources of data for my project
 
 2) https://www.cdc.gov/physical-activity/php/data/inactivity-maps.html - The CDC's physical inactivity data highlights the prevalence of adults in the U.S. who report no physical activity outside of work. The maps show regional and state-level variations, with the South having the highest inactivity rates and the West the lowest. It also reveals disparities by race and ethnicity, emphasizing the need for targeted interventions to promote physical activity
 
+3) https://www.cdc.gov/brfss/annual_data/annual_2015.html - The 2015 Behavioral Risk Factor Surveillance System (BRFSS) data, accessible at the provided link, comprises health-related information from over 441,000 U.S. adults. It includes variables such as exercise habits and self-reported mental health status, enabling analyses of associations between physical activity and mental well-being. I will use the Centers for Disease Control and Prevention Behavioral Risk Factors Surveillance System survey to compared the number of days of bad self-reported mental health between individuals who exercised and those who did not
+   
+4) https://explodingtopics.com/blog/smartphone-usage-stats - This is a great dataset on smartphone usage and addiction, it has data on time spent on smartphones , average amount  I am going to use this as a part of my argument that there is infact time to exercise! We use our smartphones for hours on end daily doom scrolling - this is a cause of anxiety and depression, rather we can take out 30-40 minutes of that time and move our body , get some sunshine and it will have a exponential impact on mental health and wellness and smartphone addictions will come down drastically 
 
+5) https://www.kaggle.com/datasets/nguyenngocphung/behavioral-risk-factor-surveillance-system2013 - Behavioral Risk Factor Surveillance System (BRFSS) for 2013, which collects data on various health-related behaviors, chronic diseases, and preventive health measures from adults across the U.S. It includes information on exercise, sleep, mental health, and other behavioral factors, making it highly relevant to my project.
+
+6) Individuals I know who I have reccomended exercise to , surveys from their experience and positive changes 
+
+These are just a few of the sources from a vast amount of data I plan to explore and utilize 
 ## Method and medium 
 For implementing my project, I will be utilizing the following tools:
 
