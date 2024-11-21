@@ -18,3 +18,23 @@ What the readers will gain:
 4) Empowerment: Discover achievable ways to enhance mental health and well-being through movement.
 
 
+### Story arc 
+
+![This is my story arc](story arc.jpg)
+
+My story will start my talking about the problem , what are the issues that lead to it and its consequences , what are possible solutions and how beneficial it can be and I will end with a call to action which every single reader can implement from day 1 without any constraints. That is my goal - to show my readers that exercise is not complicated , it is easy and you just need to start ! Below is a draft of how I plan to narrate this story
+
+1. Setup (Understanding the Problem):
+High screen time and sedentary lifestyles are leading to stress, anxiety, and depression, creating a cycle of worsening mental health.
+
+2. Identifying the Issues and Consequences:
+This cycle often results in reduced productivity, poor sleep, and an overall decline in well-being.
+
+3. Understanding the Correlation:
+There’s a clear connection between sedentary behavior and mental health challenges. Recognizing this link is the first step to change.
+
+4. What Can Be Done (Solutions):
+Incorporating regular physical activity, even incrementally, can significantly improve sleep, productivity, and overall mental health. Activities like walking, jogging, and spending time outdoors are simple yet effective.
+
+5. Call to Action:
+It’s not as hard as it seems! Just 30 minutes of movement—whether at home or outdoors—can make a huge difference. Start small, stay consistent, and reclaim your well-being.
