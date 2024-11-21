@@ -24,6 +24,8 @@ What the readers will gain:
 
 My story will start my talking about the problem , what are the issues that lead to it and its consequences , what are possible solutions and how beneficial it can be and I will end with a call to action which every single reader can implement from day 1 without any constraints. That is my goal - to show my readers that exercise is not complicated , it is easy and you just need to start ! Below is a draft of how I plan to narrate this story
 
+I will be using some personal data I have collected from my Iphone regarding my sleep and genera
+
 1. Setup (Understanding the Problem):
 High screen time and sedentary lifestyles are leading to stress, anxiety, and depression, creating a cycle of worsening mental health.
 
@@ -40,6 +42,11 @@ Incorporating regular physical activity, even incrementally, can significantly i
 It’s not as hard as it seems! Just 30 minutes of movement—whether at home or outdoors—can make a huge difference. Start small, stay consistent, and reclaim your well-being.
 
 ## Sketches 
+
+## The data 
+
+I will be using the following sources of data for my project 
+1) My personal iphone health app data which has data on calories burnt and sleep. I plan to use this data to show how exercise can lead to better sleep through my own personal experiences. Below are some screengrabs of what the data looks like 
 
 ## Method and medium 
 For implementing my project, I will be utilizing the following tools:
