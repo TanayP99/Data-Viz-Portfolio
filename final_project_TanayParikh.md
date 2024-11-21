@@ -48,7 +48,8 @@ It’s not as hard as it seems! Just 30 minutes of movement—whether at home or
 I will be using the following sources of data for my project 
 1) My personal iphone health app data which has data on calories burnt and sleep. I plan to use this data to show how exercise can lead to better sleep through my own personal experiences. Below are some screengrabs of what the data looks like
    ![iphone ex](iphone_1.jpg)
-   ![iphone_ex](story_arc.jpg)
+   
+   ![iphone_ex](iphone_2.jpg)
 
 ## Method and medium 
 For implementing my project, I will be utilizing the following tools:
