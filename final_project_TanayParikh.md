@@ -20,7 +20,7 @@ What the readers will gain:
 
 ### Story arc 
 
-![This is my story arc](story arc.jpg)
+![This is my story arc](story_arc.jpg)
 
 My story will start my talking about the problem , what are the issues that lead to it and its consequences , what are possible solutions and how beneficial it can be and I will end with a call to action which every single reader can implement from day 1 without any constraints. That is my goal - to show my readers that exercise is not complicated , it is easy and you just need to start ! Below is a draft of how I plan to narrate this story
 
@@ -38,3 +38,13 @@ Incorporating regular physical activity, even incrementally, can significantly i
 
 5. Call to Action:
 It’s not as hard as it seems! Just 30 minutes of movement—whether at home or outdoors—can make a huge difference. Start small, stay consistent, and reclaim your well-being.
+
+## Sketches 
+
+## Method and medium 
+For implementing my project, I will be utilizing the following tools:
+
+Shorthand: To craft and present my story narrative in a clear and engaging way.
+Tableau and DataWrapper: For designing interactive and impactful data visualizations.
+Canva: To create custom visuals that align seamlessly with my story arc.
+Additionally, I plan to incorporate reference graphics, such as explanatory charts, to help the audience quickly grasp the key takeaways from the data.
