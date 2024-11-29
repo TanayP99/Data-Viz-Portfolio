@@ -11,7 +11,9 @@ https://carnegiemellon.shorthandstories.com/move-more-feel-better/index.html
 Young adults and college students, particularly those who:
 
 1) Struggle with balancing academics and mental wellbeing
+   
 2) Struggle to make time for physical activity and exercise
+   
 3) Are dealing with anxiety, stress and are struggling to deal with the pressure
 
 ### Purpose 
