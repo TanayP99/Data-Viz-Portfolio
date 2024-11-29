@@ -15,5 +15,6 @@ This is a repository for all my work in the course
 
 [Assignment3 & 4](/Protein_Costs.md)
 
-[Final Project](/final_project_TanayParikh.md)
+[Final Project part 1](/final_project_TanayParikh.md)
 
+[Final Project part 2 ](/FinalProjectPART2.md)
