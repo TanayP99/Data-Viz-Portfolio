@@ -34,18 +34,25 @@ Questions:-
 
 Initially I set some context and gather some information related to my story and then proceed to show my storyboard and wireframes , sketches and ask questions regarding the same 
 
-1) Can you tell me a little about your daily routine, especially how you manage your time between academics, work, and personal life?
-2) How often do you feel stressed or anxious during a typical week? What do you think are the main causes?
-3) Do you currently engage in any physical activity or exercise? If yes, how often? If no, what prevents you from doing so?
+ Can you tell me a little about your daily routine, especially how you manage your time between academics, work, and personal life?
+ 
+ How often do you feel stressed or anxious during a typical week? What do you think are the main causes?
+ 
+ Do you currently engage in any physical activity or exercise? If yes, how often? If no, what prevents you from doing so?
 
-4) When you look at this storyboard, does the overall story make sense to you? Does it feel easy to follow?
-5) Are there any parts of the story you found confusing or did not understand
-6) Can you relate to the story being told?
+ When you look at this storyboard, does the overall story make sense to you? Does it feel easy to follow?
+ 
+ Are there any parts of the story you found confusing or did not understand
+ 
+ Can you relate to the story being told?
+ 
+ Do the visualizations fit into the storyline and communicate the message, are they clear to understand
+ 
+ Is there anything you would change ?
+ 
+ Is the Call to Action motivating and encouraging for you?
 
-7) Do the visualizations fit into the storyline and communicate the message, are they clear to understand
-8) Is there anything you would change ?
-9) Is the Call to Action motivating and encouraging for you?
-10) Is there any additional information you wish was included?
+ Is there any additional information you wish was included?
 
 
 ## User Research Findings 
