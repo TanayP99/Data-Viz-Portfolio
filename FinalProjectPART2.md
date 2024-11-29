@@ -72,6 +72,8 @@ Call-to-Action:
 The interviewees found the call-to-action motivating but two of them wanted more actionable examples such as what exercises they can do at home, how they can progress from beginner to advanced in the gym etc
 
 
+How I plan to incorporate the feedback - To implement the feedback from the interviews in the next part, I plan to refine the introduction by incorporating a more attention-grabbing title and opening with a relevant statistic or brief anecdote to immediately engage the audience. I will make the visuals more impactful by using brighter colors, adding annotations, and including captions to highlight key takeaways clearly. For example, the pie chart will be updated with annotations to clarify the distribution of activities. Additionally, I will enhance the call-to-action by providing actionable examples, such as specific exercises students can do at home and tips for progressing in fitness routines. These changes aim to make the narrative more engaging, relatable, and actionable for the target audience
+
 
 
  [HOME](/README.md)
